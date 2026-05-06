@@ -5,4 +5,8 @@ public class ChangePi {
             return "";
 
     }
+        if (str.startsWith("pi")) {
+
+        }
+    }
 }
