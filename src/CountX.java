@@ -11,6 +11,8 @@ public class CountX {
         if (firstChar == 'x') {
             return 1 + countX(remaining);
         } else {
-
+            return countX(remaining);
         }
+
+    }
 }
