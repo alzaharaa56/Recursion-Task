@@ -10,6 +10,8 @@ class Factorial {
     }
     public class FactorialDemo {
         public static void main(String[] args) {
+
+            Factorial factObj = new Factorial();
         }
         }
 }
