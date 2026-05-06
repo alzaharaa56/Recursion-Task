@@ -16,3 +16,12 @@ public class CountX {
 
     }
 }
+
+public class CountXDemo {
+    public static void main(String[] args) {
+
+        CountX counter = new CountX();
+
+
+    }
+}
