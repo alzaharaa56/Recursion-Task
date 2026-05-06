@@ -5,4 +5,6 @@ public class CountX {
             return 0;
         }
 
+        char firstChar = str.charAt(0);
+
 }
