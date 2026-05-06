@@ -12,6 +12,11 @@ class Factorial {
         public static void main(String[] args) {
 
             Factorial factObj = new Factorial();
+
+
+            System.out.println("Factorial of 1: " + factObj.factorial(1));
+            System.out.println("Factorial of 2: " + factObj.factorial(2));
+            System.out.println("Factorial of 3: " + factObj.factorial(3));
         }
         }
 }
