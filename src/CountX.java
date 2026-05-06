@@ -8,4 +8,9 @@ public class CountX {
         char firstChar = str.charAt(0);
 
         String remaining = str.substring(1);
+        if (firstChar == 'x') {
+            return 1 + countX(remaining);
+        } else {
+
+        }
 }
