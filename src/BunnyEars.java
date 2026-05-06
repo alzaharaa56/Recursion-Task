@@ -14,5 +14,7 @@ public class BunnyEars {
 
 public class BunnyEarsDemo {
     public static void main(String[] args) {
+
+        BunnyEars earsObj = new BunnyEars();
     }
 }
