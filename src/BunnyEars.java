@@ -4,4 +4,5 @@ public class BunnyEars {
         if (n == 0) {
             return 0;
         }
+    }
 }
