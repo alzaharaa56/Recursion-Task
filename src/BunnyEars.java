@@ -5,4 +5,6 @@ public class BunnyEars {
             return 0;
         }
         if (n % 2 == 0) {
+            return 3 + bunnyEars2(n - 1);
+        }
 }
