@@ -16,7 +16,7 @@ public class CountAbc {
     }
 }
 
-public class CountAbcDemo {
+class CountAbcDemo {
     public static void main(String[] args) {
 
         CountAbc counter = new CountAbc();
