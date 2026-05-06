@@ -8,4 +8,7 @@ class PairStar {
             return str;
         }
 
+
+        char firstChar = str.charAt(0);
+        char nextChar = str.charAt(1);
 }
