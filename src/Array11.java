@@ -5,4 +5,9 @@ public class Array11 {
         if (index == nums.length) {
             return 0;
         }
+
+        if (nums[index] == 11) {
+
+        }
+    }
 }
