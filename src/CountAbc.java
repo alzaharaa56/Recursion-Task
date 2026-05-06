@@ -15,3 +15,15 @@ public class CountAbc {
         }
     }
 }
+
+public class CountAbcDemo {
+    public static void main(String[] args) {
+
+        CountAbc counter = new CountAbc();
+
+
+        System.out.println("countAbc(\"abc\") → " + counter.countAbc("abc"));
+        System.out.println("countAbc(\"abcxxabc\") → " + counter.countAbc("abcxxabc"));
+        System.out.println("countAbc(\"abaxxaba\") → " + counter.countAbc("abaxxaba"));
+    }
+}
