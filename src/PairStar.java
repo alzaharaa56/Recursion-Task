@@ -17,4 +17,18 @@ class PairStar {
         } else {
 
             return firstChar + pairStar(str.substring(1));
+        }
+    }
+}
+
+public class PairStarDemo {
+    public static void main(String[] args) {
+
+        PairStar ps = new PairStar();
+
+
+        System.out.println("pairStar(\"hello\") → " + ps.pairStar("hello"));
+        System.out.println("pairStar(\"xxyy\") → " + ps.pairStar("xxyy"));
+        System.out.println("pairStar(\"aaaa\") → " + ps.pairStar("aaaa"));
+    }
 }
