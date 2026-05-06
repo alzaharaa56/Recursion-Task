@@ -7,4 +7,5 @@ public class CountX {
 
         char firstChar = str.charAt(0);
 
+        String remaining = str.substring(1);
 }
