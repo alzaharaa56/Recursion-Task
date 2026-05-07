@@ -9,4 +9,8 @@ public class Count8 {
 
 
         int secondLastDigit = (n / 10) % 10;
+
+        if (lastDigit == 8 && secondLastDigit == 8) {
+            return 2 + count8(n / 10);
+        }
 }
