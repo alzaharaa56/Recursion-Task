@@ -10,9 +10,17 @@ public class NoX {
 
         if (firstChar == 'x') {
             return rest;
-        }else {
+        } else {
 
             return firstChar + rest;
         }
+    }
 
 }
+
+
+public class NoXDemo {
+    public static void main(String[] args) {
+    }
+}
+
