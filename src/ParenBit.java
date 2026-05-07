@@ -24,5 +24,7 @@ public class ParenBit {
 
 public class ParenBitDemo {
     public static void main(String[] args) {
+
+        ParenBit extractor = new ParenBit();
     }
     }
