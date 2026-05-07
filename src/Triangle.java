@@ -5,4 +5,7 @@ public class Triangle {
             return 0;
 
         }
+        return n + triangle(n - 1);
+    }
+
 }
