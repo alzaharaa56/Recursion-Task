@@ -21,6 +21,8 @@ public class NoX {
 
 public class NoXDemo {
     public static void main(String[] args) {
+
+        NoX remover = new NoX();
     }
 }
 
