@@ -4,4 +4,6 @@ public class EndX {
         if (str.length() == 0) {
             return "";
         }
+
+        char firstChar = str.charAt(0);
 }
