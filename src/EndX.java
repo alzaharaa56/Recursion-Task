@@ -20,7 +20,7 @@ public class EndX {
 
 
 
-public class EndXDemo {
+class EndXDemo {
     public static void main(String[] args) {
 
         EndX mover = new EndX();
