@@ -16,7 +16,7 @@ class BunnyEars {
 
 
 
-class BunnyEarsDemo {
+class BunnyEarsDemo6 {
     public static void main(String[] args) {
 
         BunnyEars earsObj = new BunnyEars();
