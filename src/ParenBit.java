@@ -6,4 +6,7 @@ public class ParenBit {
             return str;
 
     }
+        if (!str.startsWith("(")) {
+            return parenBit(str.substring(1));
+        }
 }
