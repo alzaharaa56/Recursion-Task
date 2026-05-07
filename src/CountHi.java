@@ -4,4 +4,9 @@ public class CountHi {
             return 0;
 
         }
+
+        if (str.substring(0, 2).equals("hi")) {
+
+        }
+    }
 }
