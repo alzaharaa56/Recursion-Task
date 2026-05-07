@@ -13,4 +13,7 @@ public class Count8 {
         if (lastDigit == 8 && secondLastDigit == 8) {
             return 2 + count8(n / 10);
         }
+        else if (lastDigit == 8) {
+            return 1 + count8(n / 10);
+        }
 }
