@@ -11,5 +11,8 @@ public class EndX {
 
         if (firstChar == 'x') {
             return rest + "x";
+        }else {
+
+            return firstChar + rest;
         }
 }
