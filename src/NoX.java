@@ -23,6 +23,11 @@ public class NoXDemo {
     public static void main(String[] args) {
 
         NoX remover = new NoX();
+
+
+        System.out.println("noX(\"xaxb\") → " + remover.noX("xaxb"));
+        System.out.println("noX(\"abc\") → " + remover.noX("abc"));
+        System.out.println("noX(\"xx\") → " + remover.noX("xx"));
     }
 }
 
