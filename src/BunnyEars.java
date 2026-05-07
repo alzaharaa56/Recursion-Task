@@ -5,4 +5,12 @@ public class BunnyEars {
         }
 
         return 2 + bunnyEars(n - 1);
+    }
+
 }
+
+public class BunnyEarsDemo {
+    public static void main(String[] args) {
+    }
+}
+    }
