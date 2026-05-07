@@ -5,5 +5,7 @@ public class SumDigits {
             return 0;
         }
 
+        int lastDigit = n % 10;
+
 
 }
