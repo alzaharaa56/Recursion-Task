@@ -15,7 +15,7 @@ public class SumDigits {
 
 
 
-public class SumDigitsDemo {
+class SumDigitsDemo {
     public static void main(String[] args) {
 
         SumDigits calculator = new SumDigits();
