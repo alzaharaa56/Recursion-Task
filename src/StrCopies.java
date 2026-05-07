@@ -20,5 +20,7 @@ public class StrCopies {
 
 public class StrCopiesDemo {
     public static void main(String[] args) {
+
+        StrCopies checker = new StrCopies();
     }
     }
