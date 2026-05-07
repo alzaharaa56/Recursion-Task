@@ -11,8 +11,21 @@ public class EndX {
 
         if (firstChar == 'x') {
             return rest + "x";
-        }else {
+        } else {
 
             return firstChar + rest;
         }
+    }
+}
+
+
+
+public class EndXDemo {
+    public static void main(String[] args) {
+
+
+
+
+    }
+
 }
