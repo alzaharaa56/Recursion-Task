@@ -10,5 +10,8 @@ public class CountHi {
             return 1 + countHi(str.substring(2));
 
         }
+        else {
+
+            return countHi(str.substring(1));
     }
 }
