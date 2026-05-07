@@ -10,6 +10,9 @@ public class NoX {
 
         if (firstChar == 'x') {
             return rest;
+        }else {
+
+            return firstChar + rest;
         }
 
 }
