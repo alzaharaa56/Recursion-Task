@@ -8,4 +8,8 @@ public class EndX {
         char firstChar = str.charAt(0);
 
         String rest = endX(str.substring(1));
+
+        if (firstChar == 'x') {
+            return rest + "x";
+        }
 }
