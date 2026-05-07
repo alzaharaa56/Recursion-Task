@@ -23,5 +23,7 @@ public class Count11 {
 public class Count11Demo {
     public static void main(String[] args) {
 
+        Count11 counter = new Count11();
+
     }
     }
