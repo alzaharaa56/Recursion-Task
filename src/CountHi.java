@@ -19,7 +19,7 @@ public class CountHi {
 
 
 
-public class CountHiDemo {
+class CountHiDemo {
     public static void main(String[] args) {
 
         CountHi counter = new CountHi();
