@@ -4,4 +4,5 @@ public class NoX {
             return "";
 
         }
+        char firstChar = str.charAt(0);
 }
