@@ -5,7 +5,7 @@ public class ParenBit {
         if (str.startsWith("(") && str.endsWith(")")) {
             return str;
 
-    }
+        }
         if (!str.startsWith("(")) {
             return parenBit(str.substring(1));
         }
@@ -16,4 +16,13 @@ public class ParenBit {
         }
 
         return str;
+    }
 }
+
+
+
+
+public class ParenBitDemo {
+    public static void main(String[] args) {
+    }
+    }
