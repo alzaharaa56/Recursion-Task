@@ -20,7 +20,7 @@ public class Count8 {
     }
 }
 
-public class Count8Demo {
+class Count8Demo {
     public static void main(String[] args) {
 
         Count8 counter = new Count8();
