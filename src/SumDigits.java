@@ -12,3 +12,17 @@ public class SumDigits {
 
 
 }
+
+
+
+public class SumDigitsDemo {
+    public static void main(String[] args) {
+
+        SumDigits calculator = new SumDigits();
+
+
+        System.out.println("sumDigits(126) → " + calculator.sumDigits(126));
+        System.out.println("sumDigits(49) → " + calculator.sumDigits(49));
+        System.out.println("sumDigits(12) → " + calculator.sumDigits(12));
+    }
+}
