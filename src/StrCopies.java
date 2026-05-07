@@ -8,6 +8,12 @@ public class StrCopies {
             return false;
         }
 
+        if (str.substring(0, sub.length()).equals(sub)) {
+
+
+        }
+    }
+
 
 
 }
