@@ -7,4 +7,9 @@ public class NoX {
         char firstChar = str.charAt(0);
 
         String rest = noX(str.substring(1));
+
+        if (firstChar == 'x') {
+            return rest;
+        }
+
 }
