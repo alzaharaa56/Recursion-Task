@@ -10,7 +10,7 @@ public class Triangle {
 
 }
 
-public class TriangleDemo {
+class TriangleDemo {
     public static void main(String[] args) {
 
         Triangle triObj = new Triangle();
