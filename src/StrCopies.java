@@ -10,9 +10,9 @@ public class StrCopies {
 
         if (str.substring(0, sub.length()).equals(sub)) {
             return strCopies(str.substring(1), sub, n - 1);
+        }else {
 
-
-
+            return strCopies(str.substring(1), sub, n);
         }
     }
 
