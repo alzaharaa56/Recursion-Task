@@ -13,5 +13,13 @@ public class CountHi {
         else {
 
             return countHi(str.substring(1));
+        }
     }
 }
+
+
+
+public class CountHiDemo {
+    public static void main(String[] args) {
+    }
+    }
